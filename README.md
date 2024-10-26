@@ -1,4 +1,4 @@
-# 🍏 Apple Arcade Sideloading Repository
+# 🍏 Apple Arcade Repository
 
 Welcome to **Apple Arcade** – a collection of Apple Arcade games for sideloading, curated and maintained by **@excellenteggboi**! This repo is aimed at providing an easy way to sideload your favorite Apple Arcade games onto your devices. Whether you’re looking to play on a device without a subscription or test apps on different devices, this collection has got you covered.
 
