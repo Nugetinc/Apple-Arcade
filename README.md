@@ -10,7 +10,7 @@ Welcome to **Apple Arcade** – a collection of Apple Arcade games for sideloadi
 
 ## 📲 How to Sideload
 
-- **On device**: [Check out this reddit guide by Avieshek](https://www.reddit.com/r/sideloaded/comments/1debdgh/guide_how_to_sideload_on_ios_without_expiry/)
+- **On device**: [I'm pretty sure this still works]((https://routinehub.co/shortcut/17040/))
 - **Sideloading Software**: We recommend [AltStore](https://altstore.io) or [Sideloadly](https://sideloadly.io) for sideloading.
 
 ### Steps
