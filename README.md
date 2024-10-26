@@ -1,28 +1,66 @@
-# 🍏 My Awesome Apple Arcade Game
+# 🍏 Apple Arcade Sideloading Repository
 
-Welcome to **My Awesome Apple Arcade Game** – a unique adventure exclusively available on **Apple Arcade**. This game brings together beautiful visuals, fluid gameplay, and a heartwarming story that’s suitable for all ages. Designed specifically for Apple devices, it’s crafted to take full advantage of Apple’s ecosystem, so players can pick up and play seamlessly across their devices.
-
----
-
-## 🌟 Game Features
-- **Story-Driven Gameplay**: Dive into a tale that unfolds as you play, with choices that impact the storyline and character relationships.
-- **Vibrant Graphics**: High-quality graphics optimized for Retina displays on iPhone, iPad, Mac, and Apple TV.
-- **Intuitive Controls**: Designed for touch, game controllers, and keyboard setups, so you can play how you like.
-- **Cross-Device Play**: Start on your iPhone and pick up exactly where you left off on your iPad, Mac, or even Apple TV.
-- **Game Center Integration**: Unlock achievements and climb the leaderboards as you go.
+Welcome to **Apple Arcade** – a collection of Apple Arcade games for sideloading, curated and maintained by **@excellenteggboi**! This repo is aimed at providing an easy way to sideload your favorite Apple Arcade games onto your devices. Whether you’re looking to play on a device without a subscription or test apps on different devices, this collection has got you covered.
 
 ---
 
-## 🛠 Getting Started
+## ⚠️ Disclaimer
+> **Note**: These files are provided personal testing only. It is preffered to have owned a valid Apple Arcade subscription at one point.
+---
 
-### Requirements
-To develop and test the game locally, here’s what you’ll need:
-- **Xcode 13** or later
-- **iOS 15**, **macOS 12**, or later for the latest compatibility
-- **Cocoapods** (if you’re managing dependencies)
+## 📲 How to Sideload
 
-### Installation
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/username/my-awesome-apple-arcade-game.git
-   cd my-awesome-apple-arcade-game
+- **On device**: [Check out this reddit guide by Avieshek](https://www.reddit.com/r/sideloaded/comments/1debdgh/guide_how_to_sideload_on_ios_without_expiry/)
+- **Sideloading Software**: We recommend [AltStore](https://altstore.io) or [Sideloadly](https://sideloadly.io) for sideloading.
+
+### Steps
+1. **Download the IPA**:
+   - Head to the folder for your chosen game and download the `.ipa` file.
+  
+2. **Install Using AltStore or Sideloadly**:
+   - Follow [AltStore's guide](https://altstore.io/) or [Sideloadly’s guide](https://sideloadly.io/) to install the IPA onto your iOS device.
+  
+3. **Trust the App**:
+   - After installation, go to **Settings > General > Device Management** and trust the developer profile to open the app.
+
+4. **Play and Enjoy** 🎉
+
+---
+
+## 📦 Game Library
+
+### Current Games Available
+| Game |
+|------|
+| **Crossy road Castle** | 
+| **NBA 2K25 Arcade Edition** | 
+| **Snake.io+** | 
+| **Angry Birds Reloaded** | 
+
+*New games and updates will be added periodically!*
+
+---
+
+## 🚀 How to Contribute
+
+Want to help expand the collection? Here’s how:
+1. **Fork the repository**.
+2. **Upload IPA files** to a new branch.
+3. **Submit a Pull Request**: Include details on the game version, compatibility, and any special instructions.
+4. **Wait for Approval**: I’ll review submissions as soon as possible!
+
+---
+
+## 📧 Contact
+
+If you have any questions or run into issues with sideloading, feel free to reach out:
+- **Discord**: BreekyChick
+
+---
+
+### 🙏 Credits & Thanks
+Thanks to everyone who’s contributed to this project! And a huge shout-out to the community for keeping these games accessible and enjoyable across all devices.
+
+---
+
+Enjoy the games!
