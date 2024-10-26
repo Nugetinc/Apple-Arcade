@@ -10,7 +10,7 @@ Welcome to **Apple Arcade** – a collection of Apple Arcade games for sideloadi
 
 ## 📲 How to Sideload
 
-- **On device**: [I'm pretty sure this still works]((https://routinehub.co/shortcut/17040/))
+- **On device**: [I'm pretty sure this still works](https://routinehub.co/shortcut/17040/)
 - **Sideloading Software**: We recommend [AltStore](https://altstore.io) or [Sideloadly](https://sideloadly.io) for sideloading.
 
 ### Steps
@@ -33,9 +33,12 @@ Welcome to **Apple Arcade** – a collection of Apple Arcade games for sideloadi
 | Game |
 |------|
 | **Crossy road Castle** | 
-| **NBA 2K25 Arcade Edition** | 
+| **NBA 2K25 Arcade Edition** |
+| **Hello Kitty Island Adventures** | 
 | **Snake.io+** | 
 | **Angry Birds Reloaded** | 
+| **Sneaky Sasquatch** | 
+| **Mini Motorways** | 
 
 *New games and updates will be added periodically!*
 
