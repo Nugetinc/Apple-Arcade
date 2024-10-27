@@ -39,7 +39,7 @@ Welcome to **Apple Arcade** – a collection of Apple Arcade games for sideloadi
 | **Angry Birds Reloaded** | 
 | **Sneaky Sasquatch** | 
 | **Mini Motorways** | 
-
+| **Outlanders 2** | 
 *New games and updates will be added periodically!*
 
 ---
