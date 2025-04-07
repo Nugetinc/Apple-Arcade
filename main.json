@@ -2,7 +2,30 @@
     "apps": [
         {
             "beta": false,
-            "bundleIdentifier": "com.playstack.balatropremium",
+            "bundleIdentifier": "com.thelabelgames.golf",
+            "developerName": "Team17 USA",
+            "downloadURL": "https://dl.iosvizor.net/what-the-golf/what-the-golf-v20.5.11-iosvizor.ipa",
+            "iconURL": "https://iosvizor.com/wp-content/uploads/2023/06/WHAT-THE-GOLF.png",
+            "localizedDescription": "\n\nPacked with humor, puns and goofy parodies, this game will make you question everything you thought you knew about golf! It is a silly physics-based golf parody where each level is a new surprising type of golf. Some brilliant or hilarious, others so absurd you will ask yourself: WHAT THE GOLF?\n\nIT’S REALLY NOT GOLF\n\nBut it’s a lot of other things! Cats, couches, horses, cars, TV’s, tennis, dogs, flags, flying houses, a fax machine… You name it, we golf it!\n\nEXPLORE THE LAB\n\nWhat has happened in the golf lab? Why is it called a hole-in-one and not a house-in-one? Are there really no limits to what you can golf?\n\nWANT MORE? WE GOT YOU\n\nNew episodes dropping/released often, you can already check out:\n\nIt’s Snowtime: An epic adventure of frozen pizza and pineapple\n\nA Hole New World: Golf, now with holes!\n\nSporty Sports: Where all the sports are golf!\n\n…and many more to come!\n\nUpdates for special holidays, including:\n\nInternational Cat Day (Catch the laser!)\n\nHalloween (A tricky little treat)\n\nWorld Maritime Day (That one was “aboat\" time)\n\nThanksgiving (Because turkeys are the only birdies you need!)\n\nValentines Day (A love story between a horse and a golf ball)\n\n…and more!\n\nDISCLAIMER!!\n\nThis game is made by people who know nothing about golf. It will NOT make you a better golf player!\n",
+            "name": "WHAT THE GOLF?",
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a1/f1/34/a1f13464-1ed4-fddb-2cd9-c7ec820ea3bb/efe2ea1c-bfa9-40b1-aa6e-0bb896c93b13_Car_1284x2778_en-us_UI_.png/600x0w.webp",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e0/6a/4c/e06a4c93-c729-98c6-1ea5-f632579aef50/7857083c-06a5-40e6-858d-768cbf83daea_Chair_1284x2778_en-us_UI_.png/600x0w.webp",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/53/6c/01/536c013a-688c-bc68-da11-1ce20e3f5d69/2a2b9b53-65d8-4179-baba-fa150a070320_Manball_1284x2778_EN_new.png/600x0w.webp",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/21/83/0b/21830bee-0675-5d54-ebaa-e9934be1fb25/6065d1ad-2de1-479c-9bbe-8f0ee3007783_Slinky_1284x2778_en-us_UI_.png/600x0w.webp",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/13/61/62/13616213-ecec-6414-9486-4b70d5c21bc5/e46d5ecb-b697-41f3-9d74-5e653e0f71eb_Snowtime_1284x2778_en-us_UI.png/600x0w.webp",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b7/b4/2e/b7b42ec5-8287-4352-84c9-e6730985991c/c85a1867-50d6-4631-8b38-0c17dbd273fe_Suprises_1284x2778_EN_new.png/600x0w.webp"
+            ],
+            "size": 314572800,
+            "subtitle": "Surprising and hilarious",
+            "tintColor": "84c4b9",
+            "version": "20.5.11",
+            "versionDate": "2025-03-01",
+            "versionDescription": "\n\nAPRIL FOOL'S IS COMING UP!\n\nIn celebration of our favorite holiday, we left a little something here for you guys...So be sure to play the game around April 1! I'll give you a hint: Our new favorite inspirational quote is: \"Live, Laugh, Loaf\"\n\nNAILED IT!\n\nWe also nailed a bug fix or two. Yay, us!\n"
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.playstack.balatroarcade",
             "developerName": "Playstack Ltd",
             "downloadURL": "https://dl.iosvizor.net/Balatro-plus/Balatro-plus-v1.4.7-iosvizor.ipa",
             "iconURL": "https://iosvizor.com/wp-content/uploads/2024/10/Balatro-Plus.webp",
@@ -16,7 +39,7 @@
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/d8/72/19d872c4-c0b0-fa3c-9a01-928f7414e8c7/b0eff6b4-84b3-4c26-8aef-e7744dd031ae_Balatro_Screenshot_iOS_2796x1290_UK_05.png/313x0w.webp",
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/4c/c1/dc4cc1d6-c674-eeec-68ef-8fb0662bb7b4/0ef1f940-acf2-4c5a-a75f-42c84f2f9ac8_Balatro_Screenshot_iOS_2796x1290_UK_06.png/313x0w.webp"
             ],
-            "size": 2184796,
+            "size": 140603556,
             "subtitle": "When Poker Meets Solitaire",
             "tintColor": "e103dd",
             "version": "1.4.7",
@@ -28,7 +51,7 @@
     "name": "Altstore Arcade",
     "news": [
         {
-            "appID": "com.playstack.balatropremium",
+            "appID": "com.playstack.balatroarcade",
             "caption": "A new game is now downloadable",
             "date": "2025-04-07",
             "identifier": "balatro_available",
