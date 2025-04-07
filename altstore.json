@@ -28,26 +28,47 @@
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/4c/c1/dc4cc1d6-c674-eeec-68ef-8fb0662bb7b4/0ef1f940-acf2-4c5a-a75f-42c84f2f9ac8_Balatro_Screenshot_iOS_2796x1290_UK_06.png/313x0w.webp"
             ],
         "versions": [
-          {
-            "version": "1.4.7",
-            "buildVersion": "12",
-            "date": "2024-12-12",
-            "localizedDescription": "New card customisations!",
-            "downloadURL": "https://dl.iosvizor.net/Balatro-plus/Balatro-plus-v1.4.7-iosvizor.ipa",
-            "size": 140603556,
-            "minOSVersion": "12.0",
-            "maxOSVersion": "18.3.2"
-          }
+            {
+                "version": "1.4.7",
+                "date": "2024-12-12T09:00:00-08:00",
+                "size": 140603556,
+                "downloadURL": "https://dl.iosvizor.net/Balatro-plus/Balatro-plus-v1.4.7-iosvizor.ipa",
+                "localizedDescription": "New card customisations!\nEnter the Gungeon (Diamonds)\n1000xRESIST (Diamonds)\nDon't Starve (Spades)\nShovel Knight (Spades)\nDivinity Original Sin 2 (Hearts)\nCult of the Lamb (Hearts)\nWarframe (Clubs)\nPotion Craft (Clubs)",
+                "minOSVersion": "13.5"
+            },
+            {
+                "version": "1.4.4",
+                "date": "2024-10-16T09:00:00-08:00",
+                "size": 133670000,
+                "downloadURL": "https://dl.iosvizor.net/Balatro-plus/Balatro-plus-v1.4.7-iosvizor.ipa",
+                "localizedDescription": "- Cloud save improvements",
+                "minOSVersion": "13.5"
+            }
         ],
-        "appPermissions": {}
+        "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
       }
     ],
     "news": [
-      {
-        "title": "Test",
-        "date": "2025-04-07",
-        "description": "Test Update"
-      }
+        {
+            "title": "New Game Release",
+            "identifier": "new_game",
+            "caption": "Introducing Balatro+!",
+            "date": "2025-04-07",
+            "tintColor": "#5CA399",
+            "imageURL": "https://cdn2.steamgriddb.com/hero/9665b286a4a05bb2824586886b982bd6.jpg",
+            "notify": true,
+            "url": "https://github.com/Nugetinc/Apple-Arcade/blob/main/news/balatro.md"
+        }
     ]
   }
   
