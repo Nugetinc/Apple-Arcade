@@ -7,8 +7,7 @@
     "website": "https://apple.com/apple-arcade/",
     "tintColor": "#f66E3f",
     "featuredApps": [
-      "com.example.myapp",
-      "com.example.anotherapp"
+      "com.playstack.balatropremium"
     ],
     "apps": [
       {
