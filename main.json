@@ -7,8 +7,7 @@
     "website": "https://apple.com/apple-arcade/",
     "tintColor": "#f66E3f",
     "featuredApps": [
-      "com.example.myapp",
-      "com.example.anotherapp"
+      "com.playstack.balatropremium"
     ],
     "apps": [
         {
@@ -16,7 +15,7 @@
             "bundleIdentifier": "com.playstack.balatropremium",
             "developerName": "Playstack Ltd",
             "subtitle": "When Poker Meets Solitaire",
-            "localizedDescription": "DescriptionWelcome to the official Balatro+ game!Hypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!Your goal is to beat the Boss Blinds by making strong poker hands.Find new Jokers that change the game and create awesome and exciting combos! Win enough chips to beat tricky bosses, and find hidden bonus hands and decks as you play.You’ll need all the help you can get to beat the big boss, win the final challenge, and win the game.Features:* Each run is different: every pick-up, discard and joker can dramatically alter the course of your run.* Multiple game items: discover over 150 Jokers, each with special powers. Use them with different decks,upgrade cards and vouchers to boost your scores.* Different Game modes: Campaign mode and challenge mode for you to play.* Beautiful Pixel Art: Immerse yourself in the CRT fuzz and enjoy detailed, hand-crafted pixel art.",
+            "localizedDescription": "Welcome to the official Balatro+ game!\n\nHypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!\n\nYour goal is to beat the Boss Blinds by making strong poker hands.\n\nFind new Jokers that change the game and create awesome and exciting combos! Win enough chips to beat tricky bosses, and find hidden bonus hands and decks as you play.\n\nYou’ll need all the help you can get to beat the big boss, win the final challenge, and win the game.\n\nFeatures:\n\n* Each run is different: every pick-up, discard and joker can dramatically alter the course of your run.\n\n* Multiple game items: discover over 150 Jokers, each with special powers. Use them with different decks, upgrade cards and vouchers to boost your scores.\n\n* Different Game modes: Campaign mode and challenge mode for you to play.\n\n* Beautiful Pixel Art: Immerse yourself in the CRT fuzz and enjoy detailed, hand-crafted pixel art.",
             "iconURL": "https://iosvizor.com/wp-content/uploads/2024/10/Balatro-Plus.webp",
             "tintColor": "#F54F32",
             "category": "games",
